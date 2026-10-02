@@ -1,0 +1,15 @@
+/*尾部样式*/
+.footer-copyright {
+    border-top: 0;
+    background: #fff;
+    text-align: center;
+    min-height: 50px;
+    padding: 20px 0;
+}
+
+.footer-copyright > .footer {
+    overflow: hidden;
+    width: 1190px;
+    margin: 0 auto;
+    font: 12px/1.5 "Microsoft YaHei UI", arial, "\5b8b\4f53";
+}
